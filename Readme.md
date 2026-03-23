@@ -62,6 +62,7 @@ Steps:
 
 ---
 
+
 ## Report
 Your report should include:
 - Pre-lab calculations (attach handwritten work if applicable).  
@@ -70,5 +71,22 @@ Your report should include:
   - BER analyzer output  
   - Eye diagram  
 - Discussion of differences between analytical and simulation results.  
+
+---
+
+## Tabulation 
+
+<img width="1600" height="657" alt="image" src="https://github.com/user-attachments/assets/1e7d57d8-9977-4374-bc7d-7395ef22cff7" />
+
+---
+
+## Output
+<img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/e6952414-eebb-4522-84d8-7d5725d0eda0" />
+
+---
+
+## Result
+
+The sensitivity of a PIN photodiode-based optical receiver is determined by calculating the minimum received power necessary to achieve a given Q factor and also simulated result is compared with obtained analytically.
 
 ---
