@@ -62,7 +62,6 @@ Steps:
 
 ---
 
-
 ## Report
 Your report should include:
 - Pre-lab calculations (attach handwritten work if applicable).  
@@ -74,19 +73,20 @@ Your report should include:
 
 ---
 
-## Tabulation 
+## Block Diagram
 
-<img width="1600" height="657" alt="image" src="https://github.com/user-attachments/assets/1e7d57d8-9977-4374-bc7d-7395ef22cff7" />
+<img width="808" height="436" alt="image" src="https://github.com/user-attachments/assets/8f6e70f0-7147-4bcc-aad2-fbe19ca5fd46" />
 
 ---
 
-## Output
-<img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/e6952414-eebb-4522-84d8-7d5725d0eda0" />
+## Tabulation and Graph
+
+<img width="1280" height="623" alt="image" src="https://github.com/user-attachments/assets/cbc8d948-eb90-4b17-9573-1461fa6d5375" />
+
+<img width="1601" height="851" alt="image" src="https://github.com/user-attachments/assets/6d6d4ee1-a02c-4cd8-9c30-6ba36fded4b9" />
 
 ---
 
 ## Result
 
-The sensitivity of a PIN photodiode-based optical receiver is determined by calculating the minimum received power necessary to achieve a given Q factor and also simulated result is compared with obtained analytically.
-
----
+Therefore, the sensitivity of a PIN photodiode-based optical receiver by calculating the minimum received power necessary to achieve a given Q factor has been done successfully.
